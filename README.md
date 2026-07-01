@@ -14,7 +14,7 @@ By implementing a robust Star Schema data model and an interactive Power BI dash
 
 | 3. Stock & Inventory Insights | 4. Risk & Inventory Control |
 |---|---|
-| ![Inventory](./dashboards/Inventory_Dashboard.png) | ![Risk](./dashboards/Risk_Dashboard.png) |
+| ![Inventory](https://github.com/hend55-hub/Project-BI-/blob/main/inventory.jpg) | ![Risk](./dashboards/Risk_Dashboard.png) |
 
 ---
 
