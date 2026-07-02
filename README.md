@@ -47,3 +47,5 @@ By implementing a robust Star Schema data model and an interactive Power BI dash
 4. **Dynamic Reordering & Supplier Renegotiation:** Transition from fixed ordering to dynamic reorder points based on dynamic lead times, reducing dependence on high-lead-time suppliers.
 
 ---
+## Live App
+https://app.powerbi.com/links/pe43NPpJJo?ctid=29d02b7a-fa50-40cc-8d1c-a452a519c6a5&pbi_source=linkShare
