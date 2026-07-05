@@ -10,7 +10,7 @@ By implementing a robust Star Schema data model and an interactive Power BI dash
 ## Interactive Dashboards
 | 1. Performance Overview | 2. Profit & Financial Performance |
 |---|---|
-| ![Overview](https://github.com/hend55-hub/Project-BI-/blob/main/overview.jpg) | ![Financial](https://github.com/hend55-hub/Project-BI-/blob/main/financial.jpg) |
+| ![Overview](https://github.com/hend55-hub/Project-BI-/blob/main/overview.jpg) | ![Financial]() |
 
 | 3. Stock & Inventory Insights | 4. Risk & Inventory Control |
 |---|---|
